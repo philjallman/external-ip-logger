@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# API keys and other credentials
+client_secret.json
+.credentials/
+
 # Distribution / packaging
 .Python
 env/

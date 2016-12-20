@@ -1,0 +1,3 @@
+[submodule "ipgetter"]
+	path = ipgetter
+	url = https://github.com/phoemur/ipgetter.git
